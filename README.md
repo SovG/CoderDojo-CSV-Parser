@@ -3,7 +3,7 @@
 Simple Python program to parse CSV data from CoderDojoWA into a useable form
 
 ## Usage
-python3 mentorHours.py <csv file>   
+python3 mentorHours.py \<csv file\>   
 
 Program creates a file called hours.csv which holds the accumulated data
 
